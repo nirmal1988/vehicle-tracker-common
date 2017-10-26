@@ -1,0 +1,17 @@
+[
+	{"username":"MFR","displayname":"MFR","password":"passw0rd","role":"MANUFACTURER"},
+
+	{"username":"DEALER1","displayname":"DEALER 1","password":"passw0rd","role":"DEALER"},
+	
+	{"username":"SC1","displayname":"SC 1","password":"passw0rd","role":"SERVICE_CENTER"},
+
+	{"username":"CHRIS_VARGAS","displayname":"CHRIS VARGAS","password":"passw0rd","role":"CUSTOMER"},
+	{"username":"WILLIAM_LOVELL","displayname":"WILLIAM LOVELL","password":"passw0rd","role":"CUSTOMER"},
+	{"username":"GILBERT_SMITH","displayname":"GILBERT SMITH","password":"passw0rd","role":"CUSTOMER"},
+	{"username":"CHRISTINE_DUNNETT","displayname":"CHRISTINE DUNNETT","password":"passw0rd","role":"CUSTOMER"},
+	{"username":"YUKIO_MIFUNE","displayname":"YUKIO MIFUNE","password":"passw0rd","role":"CUSTOMER"},
+	{"username":"CUST1", "displayname": "Customer 1", "password":"passw0rd","role":"CUSTOMER"},
+	{"username":"CUST2", "displayname": "Customer 2", "password":"passw0rd","role":"CUSTOMER"},
+	{"username":"CUST3", "displayname": "Customer 3", "password":"passw0rd","role":"CUSTOMER"}
+
+]
